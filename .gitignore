@@ -1,0 +1,10 @@
+**/migrations/
+
+venv/
+.env
+
+#SQLite
+*.sqlite3
+
+#кэш
+__pycache__/
